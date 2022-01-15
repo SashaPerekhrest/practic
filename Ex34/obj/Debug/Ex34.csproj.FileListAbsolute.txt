@@ -1,0 +1,10 @@
+C:\practic\Ex34\bin\Debug\Ex34.exe.config
+C:\practic\Ex34\bin\Debug\Ex34.exe
+C:\practic\Ex34\bin\Debug\Ex34.pdb
+C:\practic\Ex34\obj\Debug\Ex34.csprojAssemblyReference.cache
+C:\practic\Ex34\obj\Debug\Ex34.Form1.resources
+C:\practic\Ex34\obj\Debug\Ex34.Properties.Resources.resources
+C:\practic\Ex34\obj\Debug\Ex34.csproj.GenerateResource.cache
+C:\practic\Ex34\obj\Debug\Ex34.csproj.CoreCompileInputs.cache
+C:\practic\Ex34\obj\Debug\Ex34.exe
+C:\practic\Ex34\obj\Debug\Ex34.pdb
