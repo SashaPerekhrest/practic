@@ -1,0 +1,13 @@
+C:\practic\Ex27\Ex27\bin\Debug\netcoreapp3.1\Ex27.exe
+C:\practic\Ex27\Ex27\bin\Debug\netcoreapp3.1\Ex27.deps.json
+C:\practic\Ex27\Ex27\bin\Debug\netcoreapp3.1\Ex27.runtimeconfig.json
+C:\practic\Ex27\Ex27\bin\Debug\netcoreapp3.1\Ex27.runtimeconfig.dev.json
+C:\practic\Ex27\Ex27\bin\Debug\netcoreapp3.1\Ex27.dll
+C:\practic\Ex27\Ex27\bin\Debug\netcoreapp3.1\Ex27.pdb
+C:\practic\Ex27\Ex27\obj\Debug\netcoreapp3.1\Ex27.csprojAssemblyReference.cache
+C:\practic\Ex27\Ex27\obj\Debug\netcoreapp3.1\Ex27.csproj.CoreCompileInputs.cache
+C:\practic\Ex27\Ex27\obj\Debug\netcoreapp3.1\Ex27.AssemblyInfoInputs.cache
+C:\practic\Ex27\Ex27\obj\Debug\netcoreapp3.1\Ex27.AssemblyInfo.cs
+C:\practic\Ex27\Ex27\obj\Debug\netcoreapp3.1\Ex27.dll
+C:\practic\Ex27\Ex27\obj\Debug\netcoreapp3.1\Ex27.pdb
+C:\practic\Ex27\Ex27\obj\Debug\netcoreapp3.1\Ex27.genruntimeconfig.cache
