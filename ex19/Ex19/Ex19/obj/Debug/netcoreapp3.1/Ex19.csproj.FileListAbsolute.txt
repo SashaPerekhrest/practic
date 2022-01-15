@@ -1,0 +1,13 @@
+C:\practic\ex19\Ex19\Ex19\bin\Debug\netcoreapp3.1\Ex19.exe
+C:\practic\ex19\Ex19\Ex19\bin\Debug\netcoreapp3.1\Ex19.deps.json
+C:\practic\ex19\Ex19\Ex19\bin\Debug\netcoreapp3.1\Ex19.runtimeconfig.json
+C:\practic\ex19\Ex19\Ex19\bin\Debug\netcoreapp3.1\Ex19.runtimeconfig.dev.json
+C:\practic\ex19\Ex19\Ex19\bin\Debug\netcoreapp3.1\Ex19.dll
+C:\practic\ex19\Ex19\Ex19\bin\Debug\netcoreapp3.1\Ex19.pdb
+C:\practic\ex19\Ex19\Ex19\obj\Debug\netcoreapp3.1\Ex19.csprojAssemblyReference.cache
+C:\practic\ex19\Ex19\Ex19\obj\Debug\netcoreapp3.1\Ex19.csproj.CoreCompileInputs.cache
+C:\practic\ex19\Ex19\Ex19\obj\Debug\netcoreapp3.1\Ex19.AssemblyInfoInputs.cache
+C:\practic\ex19\Ex19\Ex19\obj\Debug\netcoreapp3.1\Ex19.AssemblyInfo.cs
+C:\practic\ex19\Ex19\Ex19\obj\Debug\netcoreapp3.1\Ex19.dll
+C:\practic\ex19\Ex19\Ex19\obj\Debug\netcoreapp3.1\Ex19.pdb
+C:\practic\ex19\Ex19\Ex19\obj\Debug\netcoreapp3.1\Ex19.genruntimeconfig.cache
