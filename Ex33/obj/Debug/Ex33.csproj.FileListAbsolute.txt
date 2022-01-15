@@ -1,0 +1,10 @@
+C:\practic\Ex33\bin\Debug\Ex33.exe.config
+C:\practic\Ex33\bin\Debug\Ex33.exe
+C:\practic\Ex33\bin\Debug\Ex33.pdb
+C:\practic\Ex33\obj\Debug\Ex33.csprojAssemblyReference.cache
+C:\practic\Ex33\obj\Debug\Ex33.Form1.resources
+C:\practic\Ex33\obj\Debug\Ex33.Properties.Resources.resources
+C:\practic\Ex33\obj\Debug\Ex33.csproj.GenerateResource.cache
+C:\practic\Ex33\obj\Debug\Ex33.csproj.CoreCompileInputs.cache
+C:\practic\Ex33\obj\Debug\Ex33.exe
+C:\practic\Ex33\obj\Debug\Ex33.pdb
