@@ -1,0 +1,13 @@
+C:\practic\Ex16\Ex16\bin\Debug\netcoreapp3.1\Ex16.exe
+C:\practic\Ex16\Ex16\bin\Debug\netcoreapp3.1\Ex16.deps.json
+C:\practic\Ex16\Ex16\bin\Debug\netcoreapp3.1\Ex16.runtimeconfig.json
+C:\practic\Ex16\Ex16\bin\Debug\netcoreapp3.1\Ex16.runtimeconfig.dev.json
+C:\practic\Ex16\Ex16\bin\Debug\netcoreapp3.1\Ex16.dll
+C:\practic\Ex16\Ex16\bin\Debug\netcoreapp3.1\Ex16.pdb
+C:\practic\Ex16\Ex16\obj\Debug\netcoreapp3.1\Ex16.csprojAssemblyReference.cache
+C:\practic\Ex16\Ex16\obj\Debug\netcoreapp3.1\Ex16.csproj.CoreCompileInputs.cache
+C:\practic\Ex16\Ex16\obj\Debug\netcoreapp3.1\Ex16.AssemblyInfoInputs.cache
+C:\practic\Ex16\Ex16\obj\Debug\netcoreapp3.1\Ex16.AssemblyInfo.cs
+C:\practic\Ex16\Ex16\obj\Debug\netcoreapp3.1\Ex16.dll
+C:\practic\Ex16\Ex16\obj\Debug\netcoreapp3.1\Ex16.pdb
+C:\practic\Ex16\Ex16\obj\Debug\netcoreapp3.1\Ex16.genruntimeconfig.cache
