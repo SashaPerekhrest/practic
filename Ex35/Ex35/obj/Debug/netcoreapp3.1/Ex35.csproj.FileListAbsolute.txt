@@ -1,0 +1,13 @@
+C:\practic\Ex35\Ex35\bin\Debug\netcoreapp3.1\Ex35.exe
+C:\practic\Ex35\Ex35\bin\Debug\netcoreapp3.1\Ex35.deps.json
+C:\practic\Ex35\Ex35\bin\Debug\netcoreapp3.1\Ex35.runtimeconfig.json
+C:\practic\Ex35\Ex35\bin\Debug\netcoreapp3.1\Ex35.runtimeconfig.dev.json
+C:\practic\Ex35\Ex35\bin\Debug\netcoreapp3.1\Ex35.dll
+C:\practic\Ex35\Ex35\bin\Debug\netcoreapp3.1\Ex35.pdb
+C:\practic\Ex35\Ex35\obj\Debug\netcoreapp3.1\Ex35.csprojAssemblyReference.cache
+C:\practic\Ex35\Ex35\obj\Debug\netcoreapp3.1\Ex35.csproj.CoreCompileInputs.cache
+C:\practic\Ex35\Ex35\obj\Debug\netcoreapp3.1\Ex35.AssemblyInfoInputs.cache
+C:\practic\Ex35\Ex35\obj\Debug\netcoreapp3.1\Ex35.AssemblyInfo.cs
+C:\practic\Ex35\Ex35\obj\Debug\netcoreapp3.1\Ex35.dll
+C:\practic\Ex35\Ex35\obj\Debug\netcoreapp3.1\Ex35.pdb
+C:\practic\Ex35\Ex35\obj\Debug\netcoreapp3.1\Ex35.genruntimeconfig.cache
