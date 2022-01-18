@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<surname surname="Петров">
-  <name>Петр</name>
-  <patronymic>Петрович</patronymic>
-  <age>20</age>
-  <email>petrov@gmail.com</email>
-</surname>
+<humans>
+  <surname surname="1">
+    <name>1</name>
+    <patronymic>1</patronymic>
+    <age>1</age>
+    <email>1</email>
+  </surname>
+  <surname surname="12">
+    <name>12</name>
+    <patronymic>12</patronymic>
+    <age>12</age>
+    <email>12</email>
+  </surname>
+</humans>
