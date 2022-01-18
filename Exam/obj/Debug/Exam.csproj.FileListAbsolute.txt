@@ -1,0 +1,10 @@
+C:\practic\Exam\bin\Debug\Exam.exe.config
+C:\practic\Exam\bin\Debug\Exam.exe
+C:\practic\Exam\bin\Debug\Exam.pdb
+C:\practic\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\practic\Exam\obj\Debug\Exam.Form1.resources
+C:\practic\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\practic\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\practic\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\practic\Exam\obj\Debug\Exam.exe
+C:\practic\Exam\obj\Debug\Exam.pdb
